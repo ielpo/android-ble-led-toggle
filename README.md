@@ -2,4 +2,4 @@
 
 A simple Android app to toggle LEDs using BLE characteristics.
 
-Created during the focus group at Noser Engineering Days 2025.
+Created during the focus group Zephyr at Noser Engineering Days 2025.
