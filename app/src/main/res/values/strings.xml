@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="send_bluetooth_message">Send Bluetooth Message</string>
+</resources>
